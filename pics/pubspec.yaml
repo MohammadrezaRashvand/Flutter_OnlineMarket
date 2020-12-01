@@ -1,0 +1,44 @@
+name: pics
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/greg.jpg
+    - assets/images/james.jpg
+    - assets/images/john.jpg
+    - assets/images/olivia.jpg
+    - assets/images/sam.jpg
+    - assets/images/sophia.jpg
+    - assets/images/steven.jpg
+    - assets/images/image1.webp
+    - assets/shopimages/Tina.jpg
+    - assets/shopimages/mahan.png
+    - assets/shopimagrs/ebrahimi.png
+#
+#
+#   fonts:
+#     - family: OpenSans
+#       fonts:
+#         - assets: fonts/OpenSans-Bold.ttf
